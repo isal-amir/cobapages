@@ -1,2 +1,0 @@
-# cobapages
-mencoba membuat pages
